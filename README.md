@@ -13,6 +13,8 @@ A coding style guide for Denver Post newsroom projects
 
 ## JS
 
+## CSS
+
 ## PHP
 
 ## Python
