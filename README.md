@@ -5,9 +5,13 @@ A coding style guide for Denver Post newsroom projects
 
 ### File names
 
+### Directory names
+
 ### Variable names
 
 ### Function / method and class names
+
+## Directory structure
 
 ## HTML
 
