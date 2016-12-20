@@ -35,7 +35,8 @@ Create objects whenever possible. Free-floating functions and variables are the 
 ```php
 if ( somecondition ):
     someexecution;
-endif```
+endif
+```
 
 Note: If writing WordPress PHP, adhere to [WordPress coding standards](https://codex.wordpress.org/WordPress_Coding_Standards)
 
