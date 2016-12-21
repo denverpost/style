@@ -25,6 +25,23 @@ Markup should [validate](https://validator.w3.org/). Avoid `<div>`'s and `<br>`'
 ## JS
 Create objects whenever possible. Free-floating functions and variables are the devil's work.
 
+*Good*
+```js
+var time_manager = {
+    now: 0,
+    increment: function() { this.now += 1; },
+    init: function() {}
+    }
+```
+
+*Bad*
+```js
+var now = 0;
+function increment() {
+    now += 1;
+}
+```
+
 ## CSS
 
 ## PHP
