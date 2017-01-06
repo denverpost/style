@@ -23,7 +23,8 @@ In general, under_scores are preferred to camelCase. Some languages vary.
 Markup should [validate](https://validator.w3.org/). Avoid `<div>`'s and `<br>`'s in the favor of semantic elements.
 
 ## JS
-These guidelines are to encourage 
+These guidelines are to encourage clean, re-usable code. For a great how-to write the best javascript in the world, I wholeheartedly encourage you read @ryanmcdermott's [Clean Code: Javascript](https://github.com/ryanmcdermott/clean-code-javascript) it's probably 1,000 words long and it will *change your life*.
+
 Create objects whenever possible. Free-floating functions and variables are the devil's work.
 
 *Good*
